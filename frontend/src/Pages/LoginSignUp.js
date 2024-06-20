@@ -11,6 +11,7 @@ function LoginSignUp() {
             <input type="password" placeholder='Password'/>
           </div>
           <button>Continue</button>
+          <p>this is added by siddu only</p>
           <p className="loginsignup-login">Already have an account? <span>Login here</span></p>
           <div className="loginsignup-agree">
             <input type="checkbox" name=''  id='' />
