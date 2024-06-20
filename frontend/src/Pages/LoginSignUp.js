@@ -18,6 +18,7 @@ function LoginSignUp() {
             <p>By continuing, i agree to the terms of use & privacy policy matter</p>
             <p>this is from siddu 2 commit</p>
             <p>my name is siddu</p>
+            <p>my name is vivek</p>
           </div>
         </div>
     </div>
